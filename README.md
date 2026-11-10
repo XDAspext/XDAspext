@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mohammed Ibrahim
 
-### `XDAspect` · Student Developer · Full-Stack Builder
+### `XDAspext` · Student Developer · Full-Stack Builder
 
 I'm Mohammed Ibrahim, a student developer passionate about building intelligent applications, exploring emerging technologies, and turning complex ideas into practical software.
 
